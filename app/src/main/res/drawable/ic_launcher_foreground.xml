@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Minimal White Capsule Outline Centered in Adaptive Icon Safe Zone -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M37,43 L71,43 A11,11 0 0,1 82,54 A11,11 0 0,1 71,65 L37,65 A11,11 0 0,1 26,54 A11,11 0 0,1 37,43 Z" />
+</vector>
